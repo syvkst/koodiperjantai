@@ -1,0 +1,16 @@
+/* CSS-tiedostossa määritellään tyylit erilaisille html-elementeille yleisesti tai lajikohtaisesti.
+Asiaa voi ajatella niin, että HTML-tiedosto kertoo, missä järjestyksessä asiat on sivulla esitettävä
+ja CSS-tiedosto sen, miltä minkäkin asian pitäisi näyttää.
+ */
+
+ /* 1. Muutetaan pääotsikon fonttilaji kursivoiduksi */
+
+ /* 2. Muutetaan sivun taustaväriä ja tekstin väriä */
+
+ /* 3. Keskitetään ja skaalataan logo */
+
+ /* 4. Sijoitetaan tekstikappaleet niin, että ne ovat vierekkäin, niiden fontti on Arial ja niillä on reunukset (mutta vain näitä tekstejä, ei muita)*/
+
+ /* 5. Muutetaan logo niin, että se muuttuu läpinäkyväksi, kun sen päälle laitetaan hiiri */
+
+ /* 6. Animoidaan logo niin, että se pyörähtää, kun hiiri viedään sen päälle */
